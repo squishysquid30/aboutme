@@ -1,0 +1,80 @@
+body {
+  background-color: rgb(197, 201, 209);
+}
+.cake {
+  width: 250px;
+  height: 250px;
+}
+menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  font-size: x-large;
+  font-weight: bold;
+}
+footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.players {
+  display: flex;
+  flex-direction: row;
+}
+.art {
+  display: flex;
+  flex-direction: row;
+}
+
+a {
+  margin: 10px;
+  text-decoration: none;
+  font-size: 1.5em;
+  color: rgb(230, 15, 158);
+  font-weight: 600;
+  padding: 40px;
+}
+
+p {
+  text-align: center;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+h1, h3, ul {
+  text-align: center;
+}
+h1 {
+padding-bottom: 40px;
+font-size: xx-large;
+}
+h3 {
+  padding-bottom: 30px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 4px solid rgb(241, 105, 196);
+  border-radius: 10px;
+  padding: 10px;
+}
+
+ul {
+  list-style: none;
+  margin-right: 45px;
+}
+.indie-flower-regular {
+  font-family: "Indie Flower", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+footer {
+  margin: 10px;
+  text-decoration: none;
+  font-size: 1.5em;
+  color: rgb(230, 15, 158);
+  font-weight: 600;
+  padding: 40px;
+}
